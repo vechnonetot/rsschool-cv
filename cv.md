@@ -26,7 +26,7 @@ function square(number) {
 ### Education:
 + VSTC (2015-2018)
 + BRU  (2018-present time)
-***
+
 ### Experience: 
 + In **2018-2019** he worked as a road worker.
 * In **2020** and now I work in the field of heat supply
@@ -35,5 +35,3 @@ function square(number) {
 ### Languages: 
 Russian - Native
 Belarassian- Native
-
-

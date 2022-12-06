@@ -31,9 +31,9 @@ function square(number) {
 + In **2018-2019** he worked as a road worker.
 * In **2020** and now I work in the field of heat supply
 
-***
+
 ### Languages: 
-Russian   | Native
-Belarassian| Native
-English|B1 (I continue to teach)
+Russian - Native
+Belarassian- Native
+
 

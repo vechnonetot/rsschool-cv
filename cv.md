@@ -14,6 +14,7 @@
 + JavaScript Basic, Python  Basic;
 + Vs Code , Pycarm;
 + Git;
++ Understanding object Oriented Programming
 ***
 ### Code examples:
 ```

@@ -10,10 +10,10 @@
  Now I am studying in the third year, in absentia at the Belarusian-Russian University in the same specialty.*
  ***
 ### Skills:
-+ HTML5,CSS3
-+ JavaScript Basic, Python  Basic
-+ Vs Code , Pycarm
-+ Git
++ HTML5,CSS3;
++ JavaScript Basic, Python  Basic;
++ Vs Code , Pycarm;
++ Git;
 ***
 ### Code examples:
 ```

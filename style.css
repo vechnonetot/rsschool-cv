@@ -1,0 +1,22 @@
+.wrapper {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 20px 40px;
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+    background-color: rgb(76, 144, 141);
+  }
+  
+  h1 {
+    font-size: 23px;
+  }
+  
+  h2 {
+    font-size: 20px;
+    margin-bottom: 0;
+  }
+  
+  code {
+    font-size: 15px;
+  }
